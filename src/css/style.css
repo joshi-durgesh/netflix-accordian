@@ -30,6 +30,6 @@
 .show + .accordian-content {
   display: block !important;
 }
-.show #btn-icon-1 {
+.show #btn-icon {
   transform: rotateZ(45deg);
 }
